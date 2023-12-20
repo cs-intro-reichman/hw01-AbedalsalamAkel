@@ -16,3 +16,4 @@ public class GenThree {
                 System.out.println("The minimal generated number was " + min);
     }
 }
+
