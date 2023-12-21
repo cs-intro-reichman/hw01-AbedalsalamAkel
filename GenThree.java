@@ -2,6 +2,7 @@
  * Generates three random integers, each in a given range [a,b),
  * prints them, and then prints the minimal number that was generated.
  */
+//change the class name in vs code 
 public class GenThree {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);
